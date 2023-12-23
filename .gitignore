@@ -1,0 +1,13 @@
+# Fichiers Python compilés
+__pycache__/
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+
+# Environnement virtuel
+venv/
+#les fichier zip 
+*.zip
